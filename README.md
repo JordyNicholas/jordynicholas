@@ -6,7 +6,7 @@
 - 👨🏽‍🎓​ Estou cursando **Desenvolvimento Fullstack no Santander Bootcamp, pela [DIO.me](https://web.dio.me/track/bf7abb82-1324-4074-9949-f474a1a911fe);**
 - 🤝🏼​ Gostaria de colaborar em **Projetos que aceitam estudantes de desenvolvimento de software**;
 - 💬 Estou disponível para **vagas de Estágio, Trainee e Desenvolvedor Júnior**
-- 💻​ Quero me aprofundar nos estudos em **Desenvolvimento Back-End**;
+- 💻​ Quero me aprofundar nos estudos em **Desenvolvimento Full-Stack**;
 - 🧑🏽‍🏭​ Atualmente trabalho na **[Maxion Wheels](https://www.maxionwheels.com), como iAdvocate**;
 - 🗣️​ Falo muito sobre **Esportes, jogos, músicas e viagens.**
 - 📫 Meu e-mail é **jordyncdasilva@live.com**
