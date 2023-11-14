@@ -1,4 +1,4 @@
-To see it in Portuguese: [⚽​](https://github.com/JordyNicholas/jordynicholas/blob/main/README.md)
+Para ver em Português: [⚽​](https://github.com/JordyNicholas/jordynicholas/blob/main/README.md)
 ___
 
 <h1 align="center">Hello! 👋, my name is Jordy Nicholas</h1>
