@@ -1,33 +1,24 @@
-<h1 align="center">In case you don't know Portuguese, access the [English]() version! </h1>
-<h2 align="center">Hello! 👋, my name is Jordy Nicholas</h2>
+To see it in Portuguese: [⚽​](https://github.com/JordyNicholas/jordynicholas/blob/main/README.md)
+___
 
-<h3 align="center">I'm a Computer Engineering student</h3>
+<h1 align="center">Hello! 👋, my name is Jordy Nicholas</h1>
+<h2 align="center">I'm a Computer Engineering student</h2>
 
 ___
 
 - 🧑🏾‍🎓​ I'm in the 10th Semester of the Bachelor's Degree in Computer Engineering at **[UNISAL](https://unisal.br), Lorena campus - São Paulo;**
 
-  
+- 👨🏽‍🎓​ I have studied **Fullstack Development at Santander Bootcamp, by [DIO.me](https://web.dio.me/track/bf7abb82-1324-4074-9949-f474a1a911fe);**
 
-- 👨🏽‍🎓​ I'm studying **Fullstack Development at Santander Bootcamp, by [DIO.me](https://web.dio.me/track/bf7abb82-1324-4074-9949-f474a1a911fe);**
-
-  
+- ​👨🏽‍💻​​ The programming languages i spend more time studying are **Angular, Java and Spring Framework**;
 
 - 🤝🏼​ I would like to collaborate on **Projects that accept software development students at junior level**;
 
-  
-
 - 💬 I am available for **Internship, Trainee and Junior Developer vacancies**
-
-  
 
 - 💻​ I want to delve deeper into studies in **Full-Stack Development**;
 
-  
-
 - 🧑🏽‍🏭​ I currently work at **[Maxion Wheels](https://www.maxionwheels.com), as an iAdvocate**;
-
-  
 
 - 🗣️​ I talk a lot about **Sports, games, music and travel.**
 
@@ -53,4 +44,4 @@ ___
 
 <p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jordynicholas&show_icons=true&locale=en&layout=compact"  alt="jordynicholas"  /></p>
 
-<p>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jordynicholas&show_icons=true&locale=en"  alt="jordynicholas"  /></p>
+<p>&nbsp;<img  align="right"  src="https://github-readme-stats.vercel.app/api?username=jordynicholas&show_icons=true&locale=en"  alt="jordynicholas"  /></p>
