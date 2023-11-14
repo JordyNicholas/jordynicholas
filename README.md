@@ -10,7 +10,7 @@ ___
 
 - 👨🏽‍🎓​ Estou cursando **Desenvolvimento Fullstack no Santander Bootcamp, pela [DIO.me](https://web.dio.me/track/bf7abb82-1324-4074-9949-f474a1a911fe);**
   
-- ​👨🏽‍💻​​ As linguagens de programação que mais estudo são **Angular, Java and Spring Framework**;
+- ​👨🏽‍💻​​ As linguagens de programação que mais estudo são **Angular, Java e Spring Framework**;
 
 - 🤝🏼​ Gostaria de colaborar em **Projetos que aceitam estudantes de desenvolvimento de software em nível júnior**;
 
