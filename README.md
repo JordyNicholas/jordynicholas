@@ -8,7 +8,7 @@ ___
 
 - 🧑🏾‍🎓​ Estou no 10º Semestre do Curso Superior de Bacharel em Engenharia da Computação pelo **[UNISAL](https://unisal.br), campus de Lorena - São Paulo;**
 
-- 👨🏽‍🎓​ Estou cursando **Desenvolvimento Fullstack no Santander Bootcamp, pela [DIO.me](https://web.dio.me/track/bf7abb82-1324-4074-9949-f474a1a911fe);**
+- 👨🏽‍🎓​ Finalizei meus estudos em **Desenvolvimento Fullstack no Santander Bootcamp, pela [DIO.me](https://web.dio.me/track/bf7abb82-1324-4074-9949-f474a1a911fe);**
   
 - ​👨🏽‍💻​​ As linguagens de programação que mais estudo são **Angular, Java e Spring Framework**;
 
