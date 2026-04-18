@@ -6,22 +6,15 @@ ___
 
 ___
 
-- 🧑🏾‍🎓​ Estou no 10º Semestre do Curso Superior de Bacharel em Engenharia da Computação pelo **[UNISAL](https://unisal.br), campus de Lorena - São Paulo;**
-
+- 🧑🏾‍🎓​ Sou Bacharel em Engenharia da Computação pelo **[UNISAL](https://unisal.br), campus de Lorena - São Paulo;**
+- 👨🏽‍🎓​ Sou pós-graduado em Engenharia de Software pela Pontifícia Universidade Católica de Minas Gerais - **[PUC-MG](https://www.pucminas.br/destaques/Paginas/default.aspx)**.
 - 👨🏽‍🎓​ Finalizei meus estudos em **Desenvolvimento Fullstack no Santander Bootcamp, pela [DIO.me](https://web.dio.me/track/bf7abb82-1324-4074-9949-f474a1a911fe);**
-  
-- ​👨🏽‍💻​​ As linguagens de programação que mais estudo são **Angular, Java e Spring Framework**;
-
-- 🤝🏼​ Gostaria de colaborar em **Projetos que aceitam estudantes de desenvolvimento de software em nível júnior**;
-
-- 💬 Estou disponível para **vagas de Estágio, Trainee e Desenvolvedor Júnior**
-
+- 🧑🏽‍🏭​ Atuo como Especialista em Desenvolvimento de Software na Encora Inc.
+ 
+- ​👨🏽‍💻​​ As linguagens de programação que mais estudo são **TypeScript (Node, React & Next.JS) e Java.**;
+- 🤝🏼​ Gostaria de colaborar em **Projetos que aceitam estudantes de desenvolvimento de software.**;
 - 💻​ Quero me aprofundar nos estudos em **Desenvolvimento Full-Stack**;
-
-- 🧑🏽‍🏭​ Atualmente trabalho na **[Maxion Wheels](https://www.maxionwheels.com), como iAdvocate**;
-
 - 🗣️​ Falo muito sobre **Esportes, jogos, músicas e viagens.**
-
 - 📫 Meu e-mail é **jordyncdasilva@live.com**
 
 ___
