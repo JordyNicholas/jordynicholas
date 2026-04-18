@@ -1,41 +1,38 @@
-To see it in English: [🧛🏽‍♂️​​](https://github.com/JordyNicholas/jordynicholas/blob/main/readme-en.md)
-___
-
 <h1  align="center">Olá! 👋, me chamo Jordy Nicholas</h1>
-<h2  align="center">Sou um estudante de Engenharia da Computação</h2>
+<h2  align="center">Especialista em Desenvolvimento de Software | Cloud Architect | GenAI</h2>
 
 ___
 
-- 🧑🏾‍🎓​ Sou Bacharel em Engenharia da Computação pelo **[UNISAL](https://unisal.br), campus de Lorena - São Paulo;**
-- 👨🏽‍🎓​ Sou pós-graduado em Engenharia de Software pela Pontifícia Universidade Católica de Minas Gerais - **[PUC-MG](https://www.pucminas.br/destaques/Paginas/default.aspx)**.
-- 👨🏽‍🎓​ Finalizei meus estudos em **Desenvolvimento Fullstack no Santander Bootcamp, pela [DIO.me](https://web.dio.me/track/bf7abb82-1324-4074-9949-f474a1a911fe);**
-- 🧑🏽‍🏭​ Atuo como Especialista em Desenvolvimento de Software na Encora Inc.
- 
-- ​👨🏽‍💻​​ As linguagens de programação que mais estudo são **TypeScript (Node, React & Next.JS) e Java.**;
-- 🤝🏼​ Gostaria de colaborar em **Projetos que aceitam estudantes de desenvolvimento de software.**;
-- 💻​ Quero me aprofundar nos estudos em **Desenvolvimento Full-Stack**;
-- 🗣️​ Falo muito sobre **Esportes, jogos, músicas e viagens.**
+To see it in English: [🧛🏽‍♂️](https://github.com/JordyNicholas/jordynicholas/blob/main/readme-en.md)
+
+- 🧑🏾‍🎓 Sou Bacharel em Engenharia da Computação pelo **[UNISAL](https://unisal.br), campus de Lorena - SP;**
+- 👨🏽‍🎓 Sou pós-graduado em Engenharia de Software pela **[PUC-MG](https://www.pucminas.br);**
+- ☁️ **AWS Certified** com foco em soluções escaláveis e resilientes;
+- 🤖 Especialista em **Generative AI** com certificações pela **Coursera**;
+- 🧑🏽‍🏭 Atuo como **Especialista em Desenvolvimento de Software na Encora Inc.**
+
+- 🏗️ Especialista em **Arquitetura Serverless** e **IaC** utilizando **AWS CDK**;
+- 🚀 Experiência avançada com **Lambda, API Gateway, DynamoDB, S3 e Step Functions**;
+- 👨🏽‍💻 As linguagens que mais utilizo são **TypeScript (Node, React & Next.JS) e Java**;
+- 🗣️ Falo muito sobre **Esportes, jogos, músicas e viagens.**
 - 📫 Meu e-mail é **jordyncdasilva@live.com**
 
 ___
 
-<h3  align="left"> 🕵🏽​ Minhas redes sociais</h3>
+### 🕵🏽 Minhas redes sociais
 
-<p  align="left">
-
-<a  href="https://linkedin.com/in/jordy-nicholas"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="jordy-nicholas"  height="30"  width="40"  /></a>**LinkedIn** <a  href="https://instagram.com/jordynicholas"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="jordynicholas"  height="30"  width="40"  /></a>**Instagram**
-
-</p>
+[**LinkedIn**](https://linkedin.com/in/jordy-nicholas) | [**Instagram**](https://instagram.com/jordynicholas)
 
 ___
-<h2  align="left"> 👨🏾‍💻​ Tech Stack:</h1>
 
-<a  href="https://angular.io"  target="_blank"  rel="noreferrer"><img  src="https://angular.io/assets/images/logos/angular/angular.svg"  alt="angular"  width="40"  height="40"/></a>		**Angular**<a  href="https://www.typescriptlang.org/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript"  width="40"  height="40"/></a>	**Typescript**	<a  href="https://www.java.com"  target="_blank"  rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"  alt="java"  width="40"  height="40"/></a>  **Java**
+### 👨🏾‍💻 Tech Stack Principal:
 
-___ 
+**AWS (CDK, Lambda, DynamoDB, Step Functions) | GenAI | TypeScript | Java**
 
-<h3  align="left"> ✍🏽​ GitHub Stats</h3>
+___
 
-<p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jordynicholas&show_icons=true&locale=en&layout=compact"  alt="jordynicholas"  /></p>
+### ✍🏽 Sobre Mim
 
-<p>&nbsp;<img  align="right"  src="https://github-readme-stats.vercel.app/api?username=jordynicholas&show_icons=true&locale=en"  alt="jordynicholas"  /></p>
+Como **Especialista em Desenvolvimento de Software na Encora Inc.**, foco em arquitetar sistemas distribuídos de alta escala. Tenho vasta experiência no ecossistema **AWS**, utilizando **Infrastructure as Code (IaC)** com **AWS CDK** para gerenciar ambientes **Serverless**. 
+
+Meu dia a dia envolve a orquestração de fluxos complexos com **Step Functions** e a construção de APIs resilientes. Além da infraestrutura, integro capacidades de **IA Generativa** para criar soluções inteligentes e modernas.
