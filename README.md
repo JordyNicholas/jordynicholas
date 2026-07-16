@@ -9,7 +9,7 @@ To see it in English: [🧛🏽‍♂️](https://github.com/JordyNicholas/jordy
 - 👨🏽‍🎓 Sou pós-graduado em Engenharia de Software pela **[PUC-MG](https://www.pucminas.br);**
 - ☁️ **AWS Certified** com foco em soluções escaláveis e resilientes;
 - 🤖 Especialista em **Generative AI** com certificações pela **Coursera**;
-- 🧑🏽‍🏭 Atuo como **Especialista em Desenvolvimento de Software na Encora Inc.**
+- 🧑🏽‍🏭 Atuo como **Especialista em Desenvolvimento de Software na Coforge Inc.**
 
 - 🏗️ Especialista em **Arquitetura Serverless** e **IaC** utilizando **AWS CDK**;
 - 🚀 Experiência avançada com **Lambda, API Gateway, DynamoDB, S3 e Step Functions**;
