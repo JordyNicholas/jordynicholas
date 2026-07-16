@@ -9,7 +9,7 @@ Ver em Português: [🧛🏽‍♂️](https://github.com/JordyNicholas/jordynic
 - 👨🏽‍🎓 Post-graduate in **Software Engineering** at PUC Minas;
 - ☁️ **AWS Certified** focusing on scalable and resilient solutions;
 - 🤖 **Generative AI** Specialist with certifications from **Coursera**;
-- 🧑🏽‍🏭 Working as a **Software Development Specialist at Encora Inc.**
+- 🧑🏽‍🏭 Working as a **Junior Associate - Engineering at Coforge Inc.**
 
 - 🏗️ Specialist in **Serverless Architecture** and **IaC** using **AWS CDK**;
 - 🚀 Advanced experience with **Lambda, API Gateway, DynamoDB, S3, and Step Functions**;
