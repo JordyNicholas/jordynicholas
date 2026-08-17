@@ -33,6 +33,6 @@ ___
 
 ### ✍🏽 Sobre Mim
 
-Como **Especialista em Desenvolvimento de Software na Encora Inc.**, foco em arquitetar sistemas distribuídos de alta escala. Tenho vasta experiência no ecossistema **AWS**, utilizando **Infrastructure as Code (IaC)** com **AWS CDK** para gerenciar ambientes **Serverless**. 
+Como **Especialista em Desenvolvimento de Software na Coforge Inc.**, foco em arquitetar sistemas distribuídos de alta escala. Tenho vasta experiência no ecossistema **AWS**, utilizando **Infrastructure as Code (IaC)** com **AWS CDK** para gerenciar ambientes **Serverless**. 
 
 Meu dia a dia envolve a orquestração de fluxos complexos com **Step Functions** e a construção de APIs resilientes. Além da infraestrutura, integro capacidades de **IA Generativa** para criar soluções inteligentes e modernas.
