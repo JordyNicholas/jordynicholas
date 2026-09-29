@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-labelledby="title desc">
+  <title id="title">Jordy Nicholas</title>
+  <desc id="desc">Software Engineer. AWS Serverless. AI coding cost. Cruzeiro, SP. Coforge.</desc>
+  <rect width="640" height="240" fill="#0d1117"/>
+  <rect x="0" y="0" width="8" height="240" fill="#58a6ff"/>
+  <text x="40" y="78" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="600">Jordy Nicholas</text>
+  <text x="40" y="124" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Software Engineer</text>
+  <text x="40" y="164" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">AWS Serverless - AI coding cost</text>
+  <text x="40" y="202" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Cruzeiro, SP - Coforge</text>
+</svg>
