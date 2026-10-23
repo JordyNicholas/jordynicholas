@@ -3,13 +3,13 @@
   <img alt="Jordy Nicholas. Software Engineer. AWS Serverless. AI coding cost. Cruzeiro, SP. Coforge." src="assets/header-light.svg">
 </picture>
 
-Engenheiro de software pleno na Coforge, na continuidade do trabalho iniciado na Encora. Construo com TypeScript (Node.js), Java e AWS serverless, e ferramentas que reduzem o custo de tokens em fluxos de agentes de código.
+Engenheiro de software pleno ex-Coforge/Encora. Construo com TypeScript (Node.js), Java e AWS serverless, e ferramentas que reduzem o custo de tokens em fluxos de agentes de código.
 
-Mid-level software engineer at Coforge, continuing the work started at Encora. I build with TypeScript (Node.js), Java, and AWS serverless, and tools that cut token cost in coding-agent workflows.
+Mid-level software engineer ex-Coforge/Encora. I build with TypeScript (Node.js), Java, and AWS serverless, and tools that cut token cost in coding-agent workflows.
 
-**10.000+ execuções** do Step Functions encerradas · **PostgreSQL 15.12 → 17.7** no Aurora, sem downtime · [**TokenForge**](https://github.com/JordyNicholas/TokenForge)
+**30.000+ execuções** do Step Functions encerradas · **PostgreSQL 15.12 → 17.7** no Aurora, sem downtime · [**TokenForge**](https://github.com/JordyNicholas/TokenForge)
 
-[LinkedIn](https://www.linkedin.com/in/jordy-nicholas) · [jordyncdasilva@live.com](mailto:jordyncdasilva@live.com) · [Português](#português) · [English](#english)
+[LinkedIn](https://www.linkedin.com/in/jordy-nicholas) · [jordyncdasilva@live.com](mailto:jordyncdasilva@live.com) · [Português](#português) · [English](#english) · [Spanish](#spanish)
 
 ---
 
@@ -114,6 +114,8 @@ Before software, I was an iAdvocate on the innovation team at Maxion Wheels in C
 | [TokenForge](https://github.com/JordyNicholas/TokenForge) | Token Risk → Policy Pack → Savings Proof. A CLI, a VS Code extension, and a React dashboard, with adapters for Copilot, Cursor, and Claude. | TypeScript, React |
 | [ts-monolith](https://github.com/JordyNicholas/ts-monolith) | Modular monolith with multi-tenant auth, a queue, and an OpenAPI contract. | Fastify, Prisma, PostgreSQL |
 | [nextjs-boilerplate](https://github.com/JordyNicholas/nextjs-boilerplate) | Console that consumes the generated types from that contract, with an optional httpOnly-cookie session. | Next.js, TypeScript |
+| [Keynest](https://github.com/JordyNicholas/Keynest) | Self-hostable password tools you can embed, plus a first-party Manager vault that dogfoods them. | Java, Spring Boot, Angular |
+
 
 <details>
 <summary>What TokenForge does, in three steps</summary>
@@ -144,7 +146,7 @@ Before software, I was an iAdvocate on the innovation team at Maxion Wheels in C
 | --- | --- |
 | Languages | TypeScript, JavaScript, Java, Python |
 | Backend | Node.js, Spring Boot, Fastify, Prisma |
-| Frontend | React, Next.js |
+| Frontend | React, Next.js, Angular, Vue.js, Svelte |
 | Cloud | AWS Lambda, API Gateway, Step Functions, SQS, RDS Aurora, S3, CloudFormation, CDK |
 | Data | PostgreSQL, DynamoDB, MySQL |
 | Testing | Jest, Vitest |
