@@ -1,11 +1,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Jordy Nicholas Campos da Silva. AI Software Engineer." src="assets/header-light.svg">
+  <img alt="Jordy Nicholas. AI Software Engineer." src="assets/header-light.svg">
 </picture>
 
-**Generative AI & Cloud-Native Distributed Systems**
-[LinkedIn](https://www.linkedin.com/in/jordy-nicholas) · [jordyncdasilva@live.com](mailto:jordyncdasilva@live.com) · [Portfolio](https://github.com/JordyNicholas) · Cruzeiro, SP
+> **Generative AI & Cloud-Native Distributed Systems**  
+> [LinkedIn](https://www.linkedin.com/in/jordy-nicholas) · [jordyncdasilva@live.com](mailto:jordyncdasilva@live.com) · [CV](https://drive.google.com/file/d/1cgfYR9l_Ojt3Pe6BAPt35pC3CAeOThSw/view?usp=drive_link) · Cruzeiro, São Paulo, Brazil
 
+<br>
+
+## About Me
+
+I build autonomous agents, AI-powered developer tooling, and secure local-first applications. My approach to AI engineering is deeply rooted in my background building highly concurrent, mission-critical AWS serverless backend systems for US-based B2B platforms. I leverage my experience with strict SLAs, zero-downtime database migrations, and cloud reliability to architect AI workflows that are deterministic, cost-efficient, and production-ready.
 ## About Me
 I build autonomous agents, AI-powered developer tooling, and secure local-first applications. My approach to AI engineering is deeply rooted in my background building highly concurrent, mission-critical AWS serverless backend systems for US-based B2B platforms. I leverage my experience with strict SLAs, zero-downtime database migrations, and cloud reliability to architect AI workflows that are deterministic, cost-efficient, and production-ready.
 
