@@ -56,10 +56,9 @@ Before dedicating my focus to AI tooling, I owned fullstack reliability for high
 
 ## Technical Arsenal
 
-| Domain | Technologies |
-| :--- | :--- |
-| **AI Engineering** | LangChain, LangGraph, CrewAI, RAG, Multi-Agent Systems, Model Context Protocol (MCP), Cursor, Gemini |
-| **Backend / Core** | TypeScript, Node.js, Java, Python, Spring Boot, Fastify, REST APIs, Clean Architecture |
-| **Cloud (AWS)** | Lambda, API Gateway, Step Functions, SQS, S3, EventBridge, CloudFormation, CDK |
-| **Data & Storage** | PostgreSQL, Prisma, Amazon Aurora, DynamoDB, MySQL |
-| **Frontend** | React.js, Next.js, Angular, Vite, SvelteKit, Tauri |
+* **AI & LLM Engineering:** LangChain, LangGraph, CrewAI, Retrieval-Augmented Generation (RAG), RAG Pipelines, AI Agents, AI-Powered Applications, Multi-Agent Systems, Model Context Protocol (MCP), Prompt Engineering, Cursor, Token FinOps, LLM Tooling
+* **Backend & Architecture:** TypeScript, Node.js, Java, Python, Spring Boot, FastAPI, REST APIs, OpenAPI/Swagger, Microservices, Clean Architecture, Domain-Driven Design (DDD)
+* **Cloud (AWS):** Serverless, Lambda, API Gateway, Step Functions, SQS, S3, EventBridge, Cognito, IAM, Secrets Manager, CloudWatch, CDK, CloudFormation
+* **Data & Storage:** PostgreSQL, Amazon Aurora, DynamoDB, MySQL, Prisma, ETL Pipelines, WebSockets
+* **Frontend:** React.js, Next.js, Angular, SvelteKit, Vite, JavaScript, Tauri
+* **Delivery & SDLC:** Docker, Git, CI/CD (GitLab CI, GitHub Actions), JFrog Artifactory, Jest, Cypress, Infrastructure as Code (IaC), Observability, Site Reliability Engineering (SRE), Scrum, Agile, Test-Driven Development (TDD), Behavior-Driven Development (BDD), 
