@@ -1,174 +1,58 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Jordy Nicholas. Software Engineer. AWS Serverless. AI coding cost. Cruzeiro, SP. Coforge." src="assets/header-light.svg">
+  <img alt="Jordy Nicholas Campos da Silva. AI Software Engineer." src="assets/header-light.svg">
 </picture>
 
-Engenheiro de software pleno ex-Coforge/Encora. Construo com TypeScript (Node.js), Java e AWS serverless, e ferramentas que reduzem o custo de tokens em fluxos de agentes de código.
+**Generative AI & Cloud-Native Distributed Systems**
+[LinkedIn](https://www.linkedin.com/in/jordy-nicholas) · [jordyncdasilva@live.com](mailto:jordyncdasilva@live.com) · [Portfolio](https://github.com/JordyNicholas) · Cruzeiro, SP
 
-Mid-level software engineer ex-Coforge/Encora. I build with TypeScript (Node.js), Java, and AWS serverless, and tools that cut token cost in coding-agent workflows.
+## About Me
+I build autonomous agents, AI-powered developer tooling, and secure local-first applications. My approach to AI engineering is deeply rooted in my background building highly concurrent, mission-critical AWS serverless backend systems for US-based B2B platforms. I leverage my experience with strict SLAs, zero-downtime database migrations, and cloud reliability to architect AI workflows that are deterministic, cost-efficient, and production-ready.
 
-**30.000+ execuções** do Step Functions encerradas · **PostgreSQL 15.12 → 17.7** no Aurora, sem downtime · [**TokenForge**](https://github.com/JordyNicholas/TokenForge)
+## Core Engineering Philosophy
 
-[LinkedIn](https://www.linkedin.com/in/jordy-nicholas) · [jordyncdasilva@live.com](mailto:jordyncdasilva@live.com) · [Português](#português) · [English](#english) · [Spanish](#spanish)
+* **Strict Type Safety over Flexibility:** I enforce strict TypeScript configurations, avoid the `any` type, and leverage Zod for runtime schema validation to catch errors at the boundary.
+* **Architecture Pragmatism:** I favor modular monoliths (e.g., Fastify + Prisma) for standalone applications to avoid premature microservice overhead, reserving event-driven distributed architectures for high-throughput cloud constraints.
+* **Cost & Observability First:** From AI token usage to AWS execution times, I design systems with built-in FinOps awareness and explicit logging layers. Production changes always ship with a rollback path.
 
----
+## AI Engineering & Open Source
 
-## Português
+### Intro | *Privacy-First AI Career Studio*
+A desktop-first application studio that generates grounded, role-fit CVs and cover letters without relying on blind LLM hallucinations or opaque SaaS platforms.
+* **Architecture (Hexagonal):** Built on a strict Ports and Adapters architecture where the core domain (`Profile`, `Application`, `DocumentDraft`) never imports external frameworks. 
+* **Stack:** Deployed as a desktop app via Tauri 2 and SvelteKit, leveraging Bun, Valibot for strict schema validation, and Drizzle with libSQL/Turso for dual-write storage.
+* **AI BYOK:** Integrates a Bring-Your-Own-Key model supporting local Ollama inference, Gemini, OpenAI, or a desktop CLI. Prompts are strictly grounded to user data via TipTap and custom PDF/DOCX parsers, preventing the model from inventing skills or employers.
 
-Antes do software, fui iAdvocate no time de inovação da Maxion Wheels em Cruzeiro, com prêmios consecutivos de time da planta.
+### TokenForge | *AI FinOps & Token Optimization*
+An enterprise toolchain (CLI, VS Code extension, and React dashboard) designed to audit and slash token waste in coding-agent workflows (Copilot, Cursor, Claude, Gemini).
+* **Under the Hood:** Operates primarily via a heuristic parsing engine that scores repository context risk without incurring expensive LLM calls. It generates tool-specific Policy Packs and provides cryptographic Savings Proofs, offering clear ROI metrics for teams scaling AI developer tools.
 
-### O que já foi para produção
+### SpecWright | *Deterministic Multi-Agent Orchestration*
+An autonomous system that transforms raw product intent into structured, cited engineering SpecPacks, outputting requirements, architecture options, and risk assessments.
+* **Under the Hood:** Engineered with Python, FastAPI, LangGraph, and CrewAI. It bypasses standard LLM unpredictability by implementing a hybrid Retrieval-Augmented Generation (RAG) pipeline with strict agentic guardrails, ensuring the orchestration yields reliable, production-ready specifications.
 
-- Encerrei mais de 10.000 execuções travadas do Step Functions com uma arquitetura recursiva em Lambda, depois de um gargalo de concorrência na conta AWS.
-- Planejei e executei o upgrade de PostgreSQL 15.12 para 17.7 no RDS Aurora sem downtime, com deploy Blue/Green.
-- Na Coforge, entrego pipeline de exportação de dados sensíveis, Lambda Authorizer para integrações com terceiros e o ciclo de vida de artefatos de CI/CD no JFrog Artifactory.
+### Keynest | *Self-Hostable Cryptographic Vault*
+An embeddable password tool and Vault Manager that standardizes enterprise cryptographic policies, eliminating reliance on black-box SaaS.
+* **Under the Hood:** Engineered as a strict Maven multi-module monorepo using Java 21 LTS, Spring Boot, and Angular. It features decoupled, first-party libraries implementing AES-256-GCM and Argon2id, ensuring high-compliance data protection.
 
-### Onde começar
+### Monokit (API & Web) | *Modular Monolith Boilerplate*
+A reference architecture for scalable, standalone SaaS applications prioritizing strict type safety and domain boundaries.
+* **Under the Hood:** The backend (`Monokit-API`) is a Fastify, Prisma, and PostgreSQL modular monolith featuring multi-tenant authentication and internal queues. The frontend (`Monokit-Web`) is a Next.js console built with TypeScript that strictly consumes the OpenAPI contract generated by the backend, ensuring zero drift between API boundaries and UI state.
+## Cloud Reliability & Backend Operations
 
-1. [TokenForge](https://github.com/JordyNicholas/TokenForge) — produto pessoal em atividade. FinOps de agentes de código: estima contexto caro, grava instruções no formato de cada ferramenta e mostra tokens antes e depois.
-2. [ts-monolith](https://github.com/JordyNicholas/ts-monolith) e [nextjs-boilerplate](https://github.com/JordyNicholas/nextjs-boilerplate) — base de referência, não um produto em produção. API em monólito modular e o console Next.js que consome o contrato OpenAPI gerado.
-3. Repositórios de curso (Pokedex, DIO, labs do Santander) são arquivo de estudo. O ponto de partida é o TokenForge.
+Before dedicating my focus to AI tooling, I owned fullstack reliability for high-compliance identity validation platforms in the US market (Encora / Coforge).
 
-| Projeto | O que faz | Stack |
-| --- | --- | --- |
-| [TokenForge](https://github.com/JordyNicholas/TokenForge) | Token Risk → Policy Pack → Savings Proof. CLI, extensão do VS Code e dashboard em React, com adaptadores para Copilot, Cursor e Claude. | TypeScript, React |
-| [ts-monolith](https://github.com/JordyNicholas/ts-monolith) | Monólito modular com autenticação multi-tenant, fila e contrato OpenAPI. | Fastify, Prisma, PostgreSQL |
-| [nextjs-boilerplate](https://github.com/JordyNicholas/nextjs-boilerplate) | Console que consome os tipos gerados desse contrato, com sessão opcional em cookie httpOnly. | Next.js, TypeScript |
+* **Zero-Downtime Migrations:** Orchestrated a PostgreSQL upgrade from 15.12 to 17.7 on a 1.5TB+ Amazon Aurora database, executing a strict Blue/Green deployment under tight compliance deadlines.
+* **Distributed System Recovery:** Architected a stateful, recursive AWS Lambda workflow using AWS SDK v3 to bypass enterprise concurrency limits, successfully batch-terminating 30,000+ stuck Step Functions executions and reducing environment recovery from 5 days to under 4 hours.
+* **Secure B2B Pipelines:** Built automated event-driven ETL pipelines (S3, EventBridge, Step Functions) and custom Lambda Authorizers integrating OpenSSL and AWS Secrets Manager for government-grade data consumption.
+* **Process Leadership:** Prior to software engineering, I led continuous improvement initiatives at Iochpe-Maxion, delivering over BRL 11 million in accumulated operational savings.
 
-<details>
-<summary>O que o TokenForge faz, em três passos</summary>
+## Technical Arsenal
 
-<ol>
-<li><strong>Token Risk.</strong> Varre o repositório e marca contexto caro e de pouco valor.</li>
-<li><strong>Policy Pack.</strong> Gera instruções e exclusões no formato de cada ferramenta (Copilot, Cursor, Claude).</li>
-<li><strong>Savings Proof.</strong> Publica um relatório de tokens antes/depois para o dashboard.</li>
-</ol>
-
-<p>O modo padrão é heurístico, sem chamar um modelo. O enriquecimento com LLM é opcional.</p>
-
-</details>
-
-### Em construção
-
-[Specwright](https://github.com/JordyNicholas/Specwright) — sistema multiagente que transforma intenção de produto em um SpecPack citado (requisitos, opções de arquitetura, riscos, outline de implementação). Status real: unidade U0, só o scaffold e o `/health`. Agentes e RAG entram nas unidades seguintes.
-
-### Como eu trabalho
-
-- Mudança em produção com caminho de volta: Blue/Green no banco, e desenho explícito quando o limite é concorrência da conta.
-- Testes em volta de contrato e de lógica compartilhada. No TokenForge, o relatório de scan é o contrato entre CLI, extensão e dashboard.
-- Documento o trade-off quando a decisão não é óbvia. O modo padrão do TokenForge não chama modelo de propósito.
-
-### Stack
-
-| | |
-| --- | --- |
-| Linguagens | TypeScript, JavaScript, Java, Python |
-| Backend | Node.js, Spring Boot, Fastify, Prisma |
-| Frontend | React, Next.js |
-| Cloud | AWS Lambda, API Gateway, Step Functions, SQS, RDS Aurora, S3, CloudFormation, CDK |
-| Dados | PostgreSQL, DynamoDB, MySQL |
-| Testes | Jest, Vitest |
-
-<details>
-<summary>Formação e certificações</summary>
-
-<ul>
-<li>Pós-graduação Lato Sensu em Engenharia de Software — PUC Minas (2024–2025)</li>
-<li>Bacharelado em Engenharia da Computação — UNISAL (2019–2023)</li>
-<li>General Standard Course, Inglês C1 (CEFR) — Bayswater (2023)</li>
-<li>AWS Certified Cloud Practitioner — emitida em fevereiro de 2025, válida até fevereiro de 2028</li>
-<li>Trilha de IA generativa — DeepLearning.AI e Coursera (2025): fundamentos, desenho de software com IA e engenharia de software em time com IA</li>
-<li>Santander Coders — Java + Angular (DIO, 2023) e trilha web back-end (Ada Tech, 2023)</li>
-</ul>
-
-</details>
-
-Português nativo · Inglês fluente (C1)
-
-Se você está contratando para backend, serverless ou ferramentas de desenvolvimento, comece pelo TokenForge e pelos três itens de produção acima. [LinkedIn](https://www.linkedin.com/in/jordy-nicholas) · [jordyncdasilva@live.com](mailto:jordyncdasilva@live.com)
-
-Fora do código, converso sobre esporte, jogos, música e viagem. [Instagram](https://instagram.com/jordynicholas)
-
-[English](#english)
-
----
-
-## English
-
-Before software, I was an iAdvocate on the innovation team at Maxion Wheels in Cruzeiro, with consecutive plant team awards.
-
-### What has shipped
-
-- Cleared 10,000+ stuck Step Functions executions with a recursive Lambda architecture, after an account-level concurrency bottleneck.
-- Planned and ran a PostgreSQL upgrade from 15.12 to 17.7 on RDS Aurora with no downtime, using Blue/Green deployments.
-- At Coforge I deliver a sensitive-data export pipeline, a Lambda Authorizer for third-party integrations, and CI/CD artifact lifecycle management in JFrog Artifactory.
-
-### Where to start
-
-1. [TokenForge](https://github.com/JordyNicholas/TokenForge) — personal project, actively developed. Coding-agent FinOps: it scores expensive context, writes instructions in each tool’s format, and shows tokens before and after.
-2. [ts-monolith](https://github.com/JordyNicholas/ts-monolith) and [nextjs-boilerplate](https://github.com/JordyNicholas/nextjs-boilerplate) — a personal reference stack, not a production product. A modular-monolith API and the Next.js console that consumes the generated OpenAPI contract.
-3. Course repositories (Pokedex, DIO, Santander labs) are a study archive. Start with TokenForge.
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [TokenForge](https://github.com/JordyNicholas/TokenForge) | Token Risk → Policy Pack → Savings Proof. A CLI, a VS Code extension, and a React dashboard, with adapters for Copilot, Cursor, and Claude. | TypeScript, React |
-| [ts-monolith](https://github.com/JordyNicholas/ts-monolith) | Modular monolith with multi-tenant auth, a queue, and an OpenAPI contract. | Fastify, Prisma, PostgreSQL |
-| [nextjs-boilerplate](https://github.com/JordyNicholas/nextjs-boilerplate) | Console that consumes the generated types from that contract, with an optional httpOnly-cookie session. | Next.js, TypeScript |
-| [Keynest](https://github.com/JordyNicholas/Keynest) | Self-hostable password tools you can embed, plus a first-party Manager vault that dogfoods them. | Java, Spring Boot, Angular |
-
-
-<details>
-<summary>What TokenForge does, in three steps</summary>
-
-<ol>
-<li><strong>Token Risk.</strong> Scans a repository and flags expensive, low-value context.</li>
-<li><strong>Policy Pack.</strong> Writes instructions and exclusions in each tool’s format (Copilot, Cursor, Claude).</li>
-<li><strong>Savings Proof.</strong> Publishes a before/after token report for the dashboard.</li>
-</ol>
-
-<p>The default mode is heuristic and does not call a model. LLM enrichment is optional.</p>
-
-</details>
-
-### Currently building
-
-[Specwright](https://github.com/JordyNicholas/Specwright) — a multi-agent system that turns product intent into a cited SpecPack (requirements, architecture options, risks, implementation outline). Honest status: unit U0, scaffold and `/health` only. Agents and RAG land in later units.
-
-### How I work
-
-- Production changes ship with a way back: Blue/Green on the database, and an explicit design when the limit is account concurrency.
-- Tests sit around contracts and shared logic. In TokenForge, the scan report is the contract between the CLI, the extension, and the dashboard.
-- I write down the trade-off when the decision is not obvious. TokenForge’s default mode does not call a model on purpose.
-
-### Stack
-
-| | |
-| --- | --- |
-| Languages | TypeScript, JavaScript, Java, Python |
-| Backend | Node.js, Spring Boot, Fastify, Prisma |
-| Frontend | React, Next.js, Angular, Vue.js, Svelte |
-| Cloud | AWS Lambda, API Gateway, Step Functions, SQS, RDS Aurora, S3, CloudFormation, CDK |
-| Data | PostgreSQL, DynamoDB, MySQL |
-| Testing | Jest, Vitest |
-
-<details>
-<summary>Education and certifications</summary>
-
-<ul>
-<li>Lato Sensu postgraduate degree, Software Engineering — PUC Minas (2024–2025)</li>
-<li>Bachelor’s degree, Computer Engineering — UNISAL (2019–2023)</li>
-<li>General Standard Course, C1 English (CEFR) — Bayswater (2023)</li>
-<li>AWS Certified Cloud Practitioner — issued February 2025, valid through February 2028</li>
-<li>Generative AI path — DeepLearning.AI and Coursera (2025): foundations, AI-powered software design, and team software engineering with AI</li>
-<li>Santander Coders — Java + Angular (DIO, 2023) and web back-end track (Ada Tech, 2023)</li>
-</ul>
-
-</details>
-
-Portuguese: native · English: fluent (C1)
-
-If you are hiring for backend, serverless, or developer-tooling roles, start with TokenForge and the three production notes above. [LinkedIn](https://www.linkedin.com/in/jordy-nicholas) · [jordyncdasilva@live.com](mailto:jordyncdasilva@live.com)
-
-Outside of code I talk about sports, games, music, and travel. [Instagram](https://instagram.com/jordynicholas)
-
-[Português](#português)
+| Domain | Technologies |
+| :--- | :--- |
+| **AI Engineering** | LangChain, LangGraph, CrewAI, RAG, Multi-Agent Systems, Model Context Protocol (MCP), Cursor, Gemini |
+| **Backend / Core** | TypeScript, Node.js, Java, Python, Spring Boot, Fastify, REST APIs, Clean Architecture |
+| **Cloud (AWS)** | Lambda, API Gateway, Step Functions, SQS, S3, EventBridge, CloudFormation, CDK |
+| **Data & Storage** | PostgreSQL, Prisma, Amazon Aurora, DynamoDB, MySQL |
+| **Frontend** | React.js, Next.js, Angular, Vite, SvelteKit, Tauri |
