@@ -4,7 +4,9 @@
 </picture>
 
 > **Generative AI & Cloud-Native Distributed Systems**  
-> [LinkedIn](https://www.linkedin.com/in/jordy-nicholas) · [jordyncdasilva@live.com](mailto:jordyncdasilva@live.com) · [CV](https://drive.google.com/file/d/1cgfYR9l_Ojt3Pe6BAPt35pC3CAeOThSw/view?usp=drive_link) · Cruzeiro, São Paulo, Brazil
+> [LinkedIn](https://www.linkedin.com/in/jordy-nicholas) · [jordyncdasilva@live.com](mailto:jordyncdasilva@live.com) · Cruzeiro, São Paulo, Brazil
+> <br>
+> [CV-EN](https://drive.google.com/file/d/1LwjgjrglEJifuTFHDk61zuoUpK8rDTsm/view?usp=drive_link) · [CV-PT-BR](https://drive.google.com/file/d/1cgfYR9l_Ojt3Pe6BAPt35pC3CAeOThSw/view?usp=drive_link) 
 
 <br>
 
